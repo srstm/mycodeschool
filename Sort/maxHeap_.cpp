@@ -39,4 +39,5 @@ int main()
     display(array, len);
     cout << "After arrange: " << endl;
     display(array, len);
+    
 }
